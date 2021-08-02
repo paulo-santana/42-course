@@ -5,6 +5,8 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/paulo-santana/get_next_line
+	branch = master
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:paulo-santana/ft_printf.git
+	branch = master
