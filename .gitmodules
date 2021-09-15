@@ -10,3 +10,6 @@
 	path = ft_printf
 	url = git@github.com:paulo-santana/ft_printf.git
 	branch = master
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/paulo-santana/minitalk
